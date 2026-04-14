@@ -5,8 +5,8 @@ Får blot en .zip fil hver gang.
 
 
 ## Design Patterns
-Observer: Creature notificerer ved hit og death
-Strategy: Damage calculation via IAttackStrategy
+Observer: Creature logger ved hit og death
+Strategy: Damage calculation gennem interfacet IAttackStrategy
 Template: PerformAttack definerer algoritme
 Singleton: Logger
 
