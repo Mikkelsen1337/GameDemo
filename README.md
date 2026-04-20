@@ -1,8 +1,5 @@
 ## NuGet
-Problemer med at package frameworket til NuGet korrekt.
-
-Får blot en .zip fil hver gang.
-
+NuGet problemer løst.
 
 ## Design Patterns
 Observer: Creature logger ved hit og death
